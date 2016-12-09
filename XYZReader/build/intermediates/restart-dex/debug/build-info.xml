@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="11495950933001"
+    token="-5590824221375220761" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="11222338487850"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/home/sagar/Nanodegree/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="11495950933001" />
+
+</instant-run>

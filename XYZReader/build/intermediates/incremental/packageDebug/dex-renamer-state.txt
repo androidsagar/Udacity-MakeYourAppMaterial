@@ -1,0 +1,7 @@
+#Fri Dec 09 21:31:47 IST 2016
+base.0=/home/sagar/Nanodegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_37e00cfb88caf8a429a928587390f9277525294a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/sagar/Nanodegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6620fa3c1f195fd9c1c20f720b9a819bf421ab6c/classes.dex
+base.1=/home/sagar/Nanodegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6620fa3c1f195fd9c1c20f720b9a819bf421ab6c
+file.0=/home/sagar/Nanodegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_37e00cfb88caf8a429a928587390f9277525294a/classes.dex
